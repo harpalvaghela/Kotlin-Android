@@ -1,0 +1,38 @@
+Offical site: https://kotlinlang.org/
+=====================================
+
+Kotlin with Android Summary =>
+1) Android Studio version >= 3.0 or install Kotlin plugin in AS version <3.0 (File -> Settings -> Plugins -> Install JetBrains -> search Kotlin)
+2) We can convert existing java file kt file by ctl+shift+alt+k
+3) Need to verify gradle file -> Configure Kotlin with Gradle -> Kotlin compiler and runtime version (1.2.71 -- 1.1.4-2), newly released is 1.3
+4) Work with most popular frameworks -> Dagger, Butterknife, Data Binding, DBFlow, etc... (later or initially we can start with these)
+5) We can mix Java and Kotlin in one project. Same way Kotlin is with iOS, NativeScript, JavaScript, Python, many more...
+
+Ref: 
+1) https://kotlinlang.org/docs/reference/android-overview.html
+2) https://kotlinlang.org/docs/reference/basic-syntax.html
+3) https://kotlinlang.org/docs/tutorials/kotlin-android.html
+4) https://developer.android.com/kotlin/resources
+5) https://developer.android.com/kotlin/get-started
+
+
+https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#0
+
+---------------------------------------------------
+https://www.tutorialspoint.com/kotlin/index.htm
+https://www.javatpoint.com/kotlin-tutorial
+---------------------------------------------------
+
+
+
+https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR
+https://www.youtube.com/watch?v=H_oGi8uuDpA
+
+
+
+https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
+https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
+
+
+
+
